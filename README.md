@@ -3,7 +3,8 @@
 ## URL to live site: 
 
 https://heartfelt-bonbon-fe9616.netlify.app/
-*NOTE: The First search will load slowly due to the back end being hosted on Render's free tier. 
+
+##*NOTE: The first search will load slowly due to the back end being hosted on Render's free tier. 
 
 ## Description
 
