@@ -6,9 +6,8 @@ https://wondrous-semolina-cdca20.netlify.app/
 
 ## Description
 
-The Book Cloud App allows users to create an account, store the books that they've read or are reading, and see the subject matter of these books represented as a word cloud.
+The Musical Moods App allows users to search for a song by title and artist. The app will return the title of the album the song was on and an image of the album cover. It will also return an image that represents the "mood" of the song, based on the valence measure provided by the Spotify API map.
 
-First, the user creates an account with an email or password, or they can sign in with their Google account. They add books by inputting the ISBN. Once the book is added, the title, author, and description of the book is autoamtically populated. The user can click on "My Books" in the navigation bar and see the subjects of all their books in the format of a word cloud.
 
 ## Technologies Used
 
