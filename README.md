@@ -2,7 +2,7 @@
 
 ## URL to live site: 
 
-(https://music-moods.onrender.com)
+https://music-moods.onrender.com
 
 ## Description
 
